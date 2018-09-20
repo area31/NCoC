@@ -31,10 +31,6 @@ The way you would go about this in any other discussion forum.  If you limit you
 
 There is plenty of proof that not having a CoC is a workable solution.  While the linux community for example may not be warm and helpful, there is nothing wrong or offensive about it, and you certainly will not be harassed unless you harass people there.
 
-#### Q: What about non-internet communications, such as a place of work, or a conference?
-
-These understandably are different.  Often sane communities will have a CoC that is unique to their physical location, and/or event.  In different parts of the world, the needs are different (see "he" vs "she" vs "they" vs people that do not have English as their primary language).  We are talking about the internet here, not physical meet ups, and that requires we do not care about the unimportant parts of how people talk.
-
 #### Q: Without a CoC, how would this community be welcoming to newcomers, and not become vile, intimidating, or have some other type of unwelcome agenda?
 
 We strive to lead by example.  We feel there are enough level-headed adults here to back you up.  However, if someone tells you you are stupid, or wrong.  Stop.  Think.  Does this have anything to do with your race, region, religion, or anything else not related to this project?  This is a tricky one.  Have you considered, that they are either having a bad day, are a bad listener, or possibly, you are wrong?  If you feel you're not wrong, please, by all means, reply.  We love discussion!  We love our members.  We are confident if you are a level-headed adult, you will be treated like one.  Other level-headed adults want to hear from you.
