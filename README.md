@@ -47,10 +47,25 @@ Isso não era realmente uma pergunta, mas vamos responder de qualquer maneira. E
 
 Envie um e-mail para essa pessoa e tente resolver isso. Envie um e-mail aos proprietários da comunidade e alerte-os. Faça o que fizer, não faça uma cena, pois isso sobrecarregará toda a comunidade com o seu problema. Se for realmente um problema e você for realmente um trunfo para a comunidade, provavelmente receberá um e-mail de volta. Às vezes, você tem que ser a pessoa maior. Diga sua peça em particular e não se debruce sobre ela. Lembre-se, este não é o momento nem o lugar para iniciar esse tipo de discussão. Se outra pessoa fez isso com você, isso não é elegante, mas há um limite para o que um moderador e uma discussão pessoal podem realizar. Receio que trazer para um grupo maior seja ruim e não ajude.
 
-#### P: E as conversas fora do assunto?
+#### P: E as conversas fora do tópico?
 
-A conversa fora do tópico deve ser desencorajada, mas não censurada. O NCoC tem como alvo coisas como projetos de código aberto e
+A conversa fora do tópico deve ser desencorajada, mas não censurada. O NCoC tem como alvo coisas como projetos de código aberto e comunidades online públicas baseadas em tópicos específicos.
 
+#### P: Como posso contribuir para o seu projeto ou comunidade quando vejo alguém dizer algo em um site ou comunidade diferente que me faz sentir mal?
+
+Não estamos no negócio de policiar a vida pessoal das pessoas. Espero que eles também não se importem com isso quando estiverem aqui. Parte de não discriminar as pessoas é não discriminar as pessoas. Isto não é um tribunal mundial. Às vezes as pessoas têm opiniões diferentes. Só porque eles expressam isso em outro lugar, não significa que não nos importamos. Se você está tão preso pelo que um membro de nossa comunidade faz ou é algo que você não gosta em outro lugar, provavelmente não deveria estar aqui.
+
+#### P: Como gerente ou líder da comunidade, o que acontece quando a multidão chega ou quando alguém começa a se envolver em uma discussão que pode levar a uma discussão ainda mais interminável?
+
+Bloqueie, e bana seu caminho para a liberdade. Isto é um infortúnio. Tente não deletar nada, ou você será acusado de censura. Mas você não tem outra escolha. Não se envolva. Aborte, aborte aborte! Você deve realmente ser muito breve, vago e fechado nessas discussões. Diga algo como: "ei, este não é o lugar para discutir isso, entre em contato em particular ou em outro meio para discutir isso. Este grupo é estritamente sobre tópicos relacionados a ${YOUR_TOPIC}". Fim.
+
+#### P: WTF, a discussão foi bloqueada e/ou não posso responder!?
+
+Mais uma vez, não vamos tolerar que nossa comunidade seja dominada pela máfia. Se isso começar a acontecer, vamos detonar, deletar, bloquear, fechar, banir e fazer o que for preciso para apagar o fogo. Essas discussões se arrastam sem parar e não tornam as comunidades melhores.
+
+#### P: Por que você não se importa com meus sentimentos?
+
+Não somos um grupo de apoio para a emoção humana. Somos uma comunidade que se esforça para se concentrar em torno de nossos tópicos. Qualquer outra coisa tira disso.
 
 
 
