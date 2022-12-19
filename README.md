@@ -1,3 +1,65 @@
+<p align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimagepng.org%2Fwp-content%2Fuploads%2F2017%2F04%2Fbandeira-do-brasil.png&f=1&nofb=1&ipt=f0dd6bd280c07aef725230c13c5c9a4cf0422d7fd6f2257f95e50e491f395fa7&ipo=images" width="400" alt="English">
+</p>
+
+# O que é NCoC
+
+Nenhum Código de Conduta é uma nova ideia inovadora. Projetado para ajudá-lo a encontrar comunidades e projetos que não ficarão presos em debates intermináveis sobre como os membros devem se comportar em suas comunidades, apenas para descobrir que nunca serão totalmente resolvidos ao gosto de ninguém.
+
+#### E se... todos nós concordássemos?
+
+1. Somos todos adultos. Capaz de ter discussões adultas.
+
+2. Aceitamos contribuições de todos, não nos importamos se você é liberal ou conservador, negro ou branco, heterossexual ou gay, ou qualquer coisa intermediária! Na verdade, não vamos trazer isso à tona ou perguntar. Nós simplesmente não nos importamos.
+
+3. Nada mais importa!
+
+
+#### P: Ótimo! Como adiciono isso ao meu projeto?
+
+Simplesmente copie CODE_OF_CONDUCT.md no diretório raiz do seu projeto. Você pode modificá-lo de acordo com suas necessidades.
+
+#### P: Como faço para promover o No Code of Conduct?
+
+Sinta-se à vontade para falar, discutir e promover o No Code of Conduct em qualquer lugar que desejar e use a hashtag #NCoC no Twitter.
+
+#### P: E se isso me fizer sentir discriminado?
+
+Se você se sente assim simplesmente porque não temos um código de conduta, é difícil alguém se relacionar com você. Isso não tem a intenção de discriminar ninguém. Simplesmente porque não cuidamos de pessoas em nosso site para garantir que elas o tratem com respeito, não significa que esperamos que você não se sinta bem-vindo ou que seja tratado sem respeito. Isso não é algo para o qual temos tempo.
+
+#### P: Sem um CoC, como eu me sentiria seguro ao participar de sua comunidade? Como eu levantaria uma bandeira vermelha se fosse maltratado?
+
+A maneira como você faria isso em qualquer outro fórum de discussão. Se você se limitar a participar de coisas que só têm códigos de conduta, estará se limitando como ser humano neste lugar maravilhoso que chamamos de internet. Não é função desta comunidade se preocupar com sentimentos individuais. Deixamos isso para os indivíduos. A internet é um lugar grande, você deve se preparar para lidar com ela.
+
+#### P: Se você não tem um CoC, este certamente será o fim do seu projeto, e o fim de algumas pessoas talentosas que contribuem para ele!
+
+Há muitas provas de que não ter um CoC é uma solução viável. Embora a comunidade linux, por exemplo, possa não ser calorosa e prestativa, não há nada de errado ou ofensivo nisso, e você certamente não será assediado a menos que perturbe as pessoas lá.
+
+#### P: Sem um CoC, como esta comunidade seria receptiva aos recém-chegados e não se tornaria vil, intimidadora ou teria algum outro tipo de agenda indesejável?
+
+Nós nos esforçamos para liderar pelo exemplo. Sentimos que há adultos equilibrados suficientes aqui para apoiá-lo. No entanto, se alguém disser que você é estúpido ou errado. Pare. Pensar. Isso tem algo a ver com sua raça, região, religião ou qualquer outra coisa não relacionada a este projeto? Este é um assunto complicado. Você já considerou que eles estão tendo um dia ruim, são maus ouvintes ou, possivelmente, você está errado? Se você acha que não está errado, por favor, por favor, responda. Adoramos discussão! Nós amamos nossos membros. Temos certeza de que se você for um adulto sensato, será tratado como tal. Outros adultos equilibrados querem ouvir você.
+
+#### P: Seu nome é ofensivo. CoC soa como Cock, e eu sinto que este é um grupo de homens brancos que está tentando minimizar a seriedade deste problema em nossa comunidade, e eu boicoto seu movimento, e vou dizer aos outros também!
+
+Isso não era realmente uma pergunta, mas vamos responder de qualquer maneira. Este é um exemplo de como iniciar um incêndio onde não precisa haver um. Tente ser mais tolerante com os outros e não leia suas profundas visões interiores. Dissemos claramente várias vezes que não nos importamos com quem você é, de onde você vem ou para onde está indo. Valorizamos a discussão inteligente sobre o nosso tema, e é isso. Se você não quiser usar nenhuma comunidade que adote o NCoC, tudo bem. Mas, por favor, ouça o conteúdo e não leia muito nas entrelinhas. Simplesmente significa Nenhum Código de Conduta.
+
+#### P: Oh não, definitivamente aconteceu! Alguém me tratou injustamente e tenho 100% de certeza de que está relacionado a algo sobre quem eu sou, e não relacionado ao que eu disse ou contribuí diretamente.
+
+Envie um e-mail para essa pessoa e tente resolver isso. Envie um e-mail aos proprietários da comunidade e alerte-os. Faça o que fizer, não faça uma cena, pois isso sobrecarregará toda a comunidade com o seu problema. Se for realmente um problema e você for realmente um trunfo para a comunidade, provavelmente receberá um e-mail de volta. Às vezes, você tem que ser a pessoa maior. Diga sua peça em particular e não se debruce sobre ela. Lembre-se, este não é o momento nem o lugar para iniciar esse tipo de discussão. Se outra pessoa fez isso com você, isso não é elegante, mas há um limite para o que um moderador e uma discussão pessoal podem realizar. Receio que trazer para um grupo maior seja ruim e não ajude.
+
+#### P: E as conversas fora do assunto?
+
+A conversa fora do tópico deve ser desencorajada, mas não censurada. O NCoC tem como alvo coisas como projetos de código aberto e
+
+
+
+
+
+<p align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.casamatatg.com.br%2Fimg%2Fproducts%2Fbandeira-inglaterra-9cm-x-5cm_1_1200.jpg&f=1&nofb=1&ipt=457fa9f295251f82fb73c259b14bcd6e6bc571ae0b6cf54327ab99ba498a2c16&ipo=images" width="400" alt="English">
+</p>
+
+
 # What is NCoC
 
 No Code Of Conduct is a groundbreaking new idea.  Designed to help you find communities and projects that will not get stuck endlessly debating how members should behave in their communities, only to be found to never be fully resolved to anyone's liking.
