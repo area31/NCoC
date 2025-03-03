@@ -69,9 +69,8 @@ Não somos um grupo de apoio para a emoção humana. Somos uma comunidade que se
 
 
 ---
-
 <p align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.casamatatg.com.br%2Fimg%2Fproducts%2Fbandeira-inglaterra-9cm-x-5cm_1_1200.jpg&f=1&nofb=1&ipt=457fa9f295251f82fb73c259b14bcd6e6bc571ae0b6cf54327ab99ba498a2c16&ipo=images" width="400" alt="English">
+<img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png" width="400" alt="USA">
 </p>
 
 
